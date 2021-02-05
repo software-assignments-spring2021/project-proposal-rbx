@@ -6,13 +6,13 @@ RecipeBox is a social media platform where users can easily find and share recip
 
 ## Why is RecipeBox needed?
 
-Currently, when searching online for a recipe, it's hard to know which ones are the best, since they are typically spread across different sites with different rating systems. In addition, Google's search algorithms tend to display sites belonging to food related brands and tv channels, as opposed to blogs and smaller sites with family recipes. There also is no easy, efficient way of saving your favorite recipes or recipes that you want to try out in the future as they are spread across these various sites.
+Currently, when searching online for a recipe, it's hard to know which ones are the best, since they are typically spread across different sites with different rating systems. In addition, Google's search algorithms tend to favor sites belonging to food related brands and tv channels, as opposed to blogs and smaller sites with family recipes. There also is no easy, efficient way of saving your favorite recipes or recipes that you want to try out in the future, as they are spread across these various sites.
 
 ## How will RecipeBox solve these problems?
 
 Users seeking to share their recipes can post them to their profiles. Those looking to find recipes can do so via the browsing feature, through which they will be able to search by keywords and/or tags (such as cuisine, course, etc).
 
-RecipeBox also incorporates many of the features that are common to social media, such as follows, likes, and comments. Following a user allows you to keep up with your friends and your favorite chefs! Liking a recipe adds it to your recipe box (so that you can easily find it again in the future) and double as the rating system for the platform.
+RecipeBox also incorporates many of the features that are common to social media, such as follows, likes, and comments. Following a user allows you to keep up with your friends and your favorite chefs through your feed. Liking a recipe adds it to your recipe box (so that you can easily find it again in the future) while also doubling as the rating system for the platform.
 
 ## Who would benefit from RecipeBox?
 
