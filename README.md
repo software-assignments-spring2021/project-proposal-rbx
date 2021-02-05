@@ -2,19 +2,17 @@
 
 ## What is RecipeBox?
 
-RecipeBox is a social media platform where users can easily find and share recipes. 
+RecipeBox is a social media platform where users can easily find and share recipes.
 
 ## Why is RecipeBox needed?
 
-Currently, when searching online for a recipe, it's hard to know which ones are the best, since they are typically spread across different sites with different rating systems. In addition, Google's search algorithms tend to display sites belonging to food related brands and tv channels, as opposed to blogs and smaller sites with family recipes.
-
-Another problem with finding recipes via Google search is saving them for future use. Aside from copying down links and attempting to store them all in one place, there is no easy, efficient way of saving your favorite recipes or recipes that you want to try out in the future.
+Currently, when searching online for a recipe, it's hard to know which ones are the best, since they are typically spread across different sites with different rating systems. In addition, Google's search algorithms tend to display sites belonging to food related brands and tv channels, as opposed to blogs and smaller sites with family recipes. There also is no easy, efficient way of saving your favorite recipes or recipes that you want to try out in the future as they are spread across these various sites.
 
 ## How will RecipeBox solve these problems?
 
 Users seeking to share their recipes can post them to their profiles. Those looking to find recipes can do so via the browsing feature, through which they will be able to search by keywords and/or tags (such as cuisine, course, etc).
 
-RecipeBox will also incorporate many of the features that are common to social media, such as follows, likes, and comments. Following a user will cause their recipes to show up on your feed; you can use this feature to keep up with your friends and your favorite chefs! Likes serve two purposes. Liking a recipe adds it to your recipe box (so that you can easily find it again in the future). Because of their nature, likes also double as the rating system for the platform.
+RecipeBox also incorporates many of the features that are common to social media, such as follows, likes, and comments. Following a user allows you to keep up with your friends and your favorite chefs! Liking a recipe adds it to your recipe box (so that you can easily find it again in the future) and double as the rating system for the platform.
 
 ## Who would benefit from RecipeBox?
 
