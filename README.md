@@ -1,13 +1,27 @@
-# RecipeBox Proposal
+# RecipeBox
 
-_Not yet finalized! We'll make sure to have the final version committed by the due date._
+## What is RecipeBox?
 
-## Title / What / Why
+RecipeBox is a social media platform where users can easily find and share recipes. 
 
-RecipeBox is a social media platform to share your favorite at-home recipes and find your favorites quickly and easily. Currently, when searching for a recipe online, popular search engines forward you to the most popular websites that belong to large companies or networks. These sites often have skewed rating systems or bring you to large companies as opposed to comfortable at-home recipes. Even if you do use the websites shown to you from search engines, you have a nice all-in-one home for your favorite cooking recipes as opposed to searching for all the links you may have saved across various different sites.
+## Why is RecipeBox needed?
 
-## Who / How / Scope
+Currently, when searching online for a recipe, it's hard to know which ones are the best, since they are typically spread across different sites with different rating systems. In addition, Google's search algorithms tend to display sites belonging to food related brands and tv channels, as opposed to blogs and smaller sites with family recipes.
 
-RecipeBox is a platform for anyone who want to find new recipes outside their comfort zone or share recipes they want to bring to anyone else out there who's curious. Everyone needs to eat, and, in the words of Chef Gusteau, anyone can cook. RecipeBox will leveral the common interfaces of social media platforms, such as likes , comments, and following your favorite at-home chefs, while leveraging intuitive browsing features to search for new recipes or ones similar to your favorites. The platform will allow you to post recipes that are not only viewable by your followers but in a general search feature. You can also save your own favorite recipes so that your go-to recipe box is ready at your fingertips when you're next in the kitchen. Based on how we have designed the project, it has an amount of work that can be appropriately distributed amongst a group of five programmers seeing as it incorporates a number of features yet are not too algorithmically complex for an undertaking done by five people.
+Another problem with finding recipes via Google search is saving them for future use. Aside from copying down links and attempting to store them all in one place, there is no easy, efficient way of saving your favorite recipes or recipes that you want to try out in the future.
 
-![Anyone can cook](https://static01.nyt.com/images/2020/11/22/multimedia/00xp-ratatouille/00xp-ratatouille-mediumSquareAt3X.jpg)
+## How will RecipeBox solve these problems?
+
+Users seeking to share their recipes can post them to their profiles. Those looking to find recipes can do so via the browsing feature, through which they will be able to search by keywords and/or tags (such as cuisine, course, etc).
+
+RecipeBox will also incorporate many of the features that are common to social media, such as follows, likes, and comments. Following a user will cause their recipes to show up on your feed; you can use this feature to keep up with your friends and your favorite chefs! Likes serve two purposes. Liking a recipe adds it to your recipe box (so that you can easily find it again in the future). Because of their nature, likes also double as the rating system for the platform.
+
+## Who would benefit from RecipeBox?
+
+Lots of people love to share their family recipes and the recipes that they create. There are also many people out there who want to learn to cook or learn new recipes. RecipeBox is the perfect platform for both groups and anyone in between.
+
+## Why is the scope of the project appropriate?
+
+Since our proposed project is well defined, we believe that we will be able to plan accordingly in order to properly distribute work and allocate time. This will enable us to complete the project within the allotted time frame.
+
+This project is appropriate for a team of 4-6 programmers due to its many features and the complex algorithms that some of them require.
