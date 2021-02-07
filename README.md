@@ -23,3 +23,8 @@ Lots of people love to share their family recipes and the recipes that they crea
 Since our proposed project is well defined, we believe that we will be able to plan accordingly in order to properly distribute work and allocate time. This will enable us to complete the project within the allotted time frame.
 
 This project is appropriate for a team of 4-6 programmers due to its many features and the complex algorithms that some of them require.
+
+
+## Contributors
+
+Ashley Nussbaum, Mark Bacon, Jonathan Sussman, Olivia Edell, Anvita Yellamanchali
